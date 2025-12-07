@@ -51,14 +51,14 @@
         {
             "value_type": "number",
             "description": "Temperature at which solid matter liquifies.",
-            "notation": "string"
+            "notation": "string",
+            "range": "number"
         },
     "boiling_point":
         {
             "value_type": "number",
             "description": "Temperature at which liquid matter evaporates.",
-            "notation": "string",
-            "range": "number"
+            "notation": "string"
         },
     "density":
         {
