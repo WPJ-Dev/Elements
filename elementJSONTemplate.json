@@ -50,7 +50,8 @@
     "melting_point":
         {
             "value_type": "number",
-            "description": "Temperature at which solid matter liquifies."
+            "description": "Temperature at which solid matter liquifies.",
+            "notation": "string"
         },
     "boiling_point":
         {
@@ -60,7 +61,8 @@
     "density":
         {
             "value_type": "number",
-            "description": "Mass per unit of volume."
+            "description": "Mass per unit of volume.",
+            "notation": "string"
         },
     "pronunciation": "null"
 
