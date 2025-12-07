@@ -38,7 +38,7 @@
         "discovery_year": 1817,
         "melting_point":{"value": 180.54, "notation": ""},
         "boiling_point": {"value": 1340, "notation": "", "range": 0},
-        "density":{"value": 0.534, "notation": ""},
+        "density":{"value": 0.534, "notation": "0&deg;C"},
         "pronunciation":"null"
     },
     {
@@ -94,7 +94,7 @@
         "discovery_year": 1772,
         "melting_point": {"value": -209.86, "notation": "", "range": 0},
         "boiling_point": {"value": -195.8, "notation": ""},
-        "density": {"value": 0.0012506, "notation": ""},
+        "density": {"value": 0.0012506, "notation": "Gas Form, 0&deg;C"},
         "pronunciation": "null"
     },
     {
@@ -108,7 +108,7 @@
         "discovery_year": 1774,
         "melting_point": {"value": -218.4, "notation": "", "range": 0},
         "boiling_point": {"value": -182.96, "notation": ""},
-        "density": {"value": 0.001429, "notation": ""},
+        "density": {"value": 0.001429, "notation": "Gas Form, 0&deg;C"},
         "pronunciation": "null"
     },
     {
@@ -122,7 +122,7 @@
         "discovery_year": 1886,
         "melting_point": {"value": -219.62, "notation": "", "range": 0},
         "boiling_point": {"value": -188.14, "notation": ""},
-        "density": {"value": 0.001696, "notation": ""},
+        "density": {"value": 0.001696, "notation": "Gas Form, 0&deg;C"},
         "pronunciation": "null"
     },
     {
@@ -136,7 +136,7 @@
         "discovery_year": 1898,
         "melting_point": {"value": -248.67, "notation": "", "range": 0},
         "boiling_point": {"value": -246.05, "notation": ""},
-        "density": {"value": 0.00089994, "notation": ""},
+        "density": {"value": 0.00089994, "notation": "Gas Form, 0&deg;C"},
         "pronunciation": "null"
     },
     {
@@ -234,7 +234,7 @@
         "discovery_year": 1774,
         "melting_point": {"value": -100.98, "notation": "", "range": 0},
         "boiling_point": {"value": -33.97, "notation": ""},
-        "density": {"value": 0.003214, "notation": ""},
+        "density": {"value": 0.003214, "notation": "0&deg;C"},
         "pronunciation": "null"
     },
     {
@@ -248,7 +248,7 @@
         "discovery_year": 1894,
         "melting_point": {"value": -189.37, "notation": "", "range": 0},
         "boiling_point": {"value": -185.86, "notation": ""},
-        "density": {"value": 0.001784, "notation": ""},
+        "density": {"value": 0.001784, "notation": "Gas Form, 0&deg;C"},
         "pronunciation": "null"
     },
     {
@@ -462,45 +462,45 @@
         "pronunciation": "null"
     },
     {
-        "atomic_number": "number",
-        "element_name": "string",
-        "molar_mass": "number",
-        "symbol": "string",
-        "position": [{"row": "number"},{"column": "number"}],
-        "period": "number",
-        "family": "number",
-        "discovery_year": "number",
-        "melting_point": {"value": "number", "notation": "", "range": 0},
-        "boiling_point": {"value": "number", "notation": ""},
-        "density": {"value": "number", "notation": ""},
+        "atomic_number": 34,
+        "element_name": "Selenium",
+        "molar_mass": 78.96,
+        "symbol": "Se",
+        "position": [{"row": 4},{"column": 16}],
+        "period": 4,
+        "family": 16,
+        "discovery_year": 1817,
+        "melting_point": {"value": 217, "notation": "", "range": 0},
+        "boiling_point": {"value": 684.9, "notation": ""},
+        "density": {"value": 4.79, "notation": "Gray Solid"},
         "pronunciation": "null"
     },
     {
-        "atomic_number": "number",
-        "element_name": "string",
-        "molar_mass": "number",
-        "symbol": "string",
-        "position": [{"row": "number"},{"column": "number"}],
-        "period": "number",
-        "family": "number",
-        "discovery_year": "number",
-        "melting_point": {"value": "number", "notation": "", "range": 0},
-        "boiling_point": {"value": "number", "notation": ""},
-        "density": {"value": "number", "notation": ""},
+        "atomic_number": 35,
+        "element_name": "Bromine",
+        "molar_mass": 79.90,
+        "symbol": "Br",
+        "position": [{"row": 4},{"column": 17}],
+        "period": 4,
+        "family": 17,
+        "discovery_year": 1826,
+        "melting_point": {"value": -7.3, "notation": "", "range": 0},
+        "boiling_point": {"value": 58.78, "notation": ""},
+        "density": {"value": 3.1226, "notation": "Liquid, 20&deg;C"},
         "pronunciation": "null"
     },
     {
-        "atomic_number": "number",
-        "element_name": "string",
-        "molar_mass": "number",
-        "symbol": "string",
-        "position": [{"row": "number"},{"column": "number"}],
-        "period": "number",
-        "family": "number",
-        "discovery_year": "number",
-        "melting_point": {"value": "number", "notation": "", "range": 0},
-        "boiling_point": {"value": "number", "notation": ""},
-        "density": {"value": "number", "notation": ""},
+        "atomic_number": 36,
+        "element_name": "Krypton",
+        "molar_mass": 83.80,
+        "symbol": "Kr",
+        "position": [{"row": 4},{"column": 18}],
+        "period": 4,
+        "family": 18,
+        "discovery_year": 1898,
+        "melting_point": {"value": -156.6, "notation": "", "range": 0},
+        "boiling_point": {"value": -153.3, "notation": ""},
+        "density": {"value": 0.0037493, "notation": "Gas Form, 0&deg;C"},
         "pronunciation": "null"
     },
     {
