@@ -56,7 +56,9 @@
     "boiling_point":
         {
             "value_type": "number",
-            "description": "Temperature at which liquid matter evaporates."
+            "description": "Temperature at which liquid matter evaporates.",
+            "notation": "string",
+            "range": "number"
         },
     "density":
         {
