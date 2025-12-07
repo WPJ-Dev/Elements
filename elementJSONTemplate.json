@@ -1,28 +1,28 @@
 {
     "atomic_number":
         {
-            "value type": "number",
+            "value_type": "number",
             "description": "The charge number of the element's atomic nucleus. Equal to the number of protons in ordinary nuclei."
         },
     "element_name":
         {
-            "value type": "string",
+            "value_type": "string",
             "description": "Name of the element."
         },
     "molar_mass":
         {
-            "value type": "number",
+            "value_type": "number",
             "description": "Method of measurement where 1 mole is equal to the number of atoms in 12 grams of carbon-12."
         },
     "symbol":
         {
-            "value type": "string",
+            "value_type": "string",
             "description": "Symbol identifier for the element."
 
         },
     "position":
         {
-        "value type": 
+        "value_type": 
         {
             "periodic_table_coordinates": 
             [
@@ -34,32 +34,32 @@
     },
     "period": 
         {
-            "value type": "number",
+            "value_type": "number",
             "description": "A row of elements, each having the same number of electron shells."
         },
     "family":
         {
-            "value type": "number",
+            "value_type": "number",
             "description": "A column of elements, each having similar physical or chemical characteristics of their outermost electron shells."
         },
     "discovery_year":
         {
-            "value type": "number",
+            "value_type": "number",
             "description": "Year element was discovered."
         },
     "melting_point":
         {
-            "value type": "number",
+            "value_type": "number",
             "description": "Temperature at which solid matter liquifies."
         },
     "boiling_point":
         {
-            "value type": "number",
+            "value_type": "number",
             "description": "Temperature at which liquid matter evaporates."
         },
     "density":
         {
-            "value type": "number",
+            "value_type": "number",
             "description": "Mass per unit of volume."
         },
     "pronunciation": "null"
