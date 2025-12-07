@@ -1,0 +1,67 @@
+{
+    "atomic_number":
+        {
+            "value type": "number",
+            "description": "string"
+        },
+    "element_name":
+        {
+            "value type": "string",
+            "description": "string"
+        },
+    "molar_mass":
+        {
+            "value type": "number",
+            "description": "string"
+        },
+    "symbol":
+        {
+            "value type": "string",
+            "description": "string"
+
+        },
+    "position":
+        {
+        "value type": 
+        {
+            "coordinates": 
+            [
+                {"row": "number"},
+                {"column": "number"}
+            ]
+        },
+            "description": "string"
+    },
+    "period": 
+        {
+            "value type": "number",
+            "description": "string"
+        },
+    "family":
+        {
+            "value type": "number",
+            "description": "string"
+        },
+    "discovery_year":
+        {
+            "value type": "number",
+            "description": "string"
+        },
+    "melting_point":
+        {
+            "value type": "number",
+            "description": "string"
+        },
+    "boiling_point":
+        {
+            "value type": "number",
+            "description": "string"
+        },
+    "density":
+        {
+            "value type": "number",
+            "description": "string"
+        },
+    "pronunciation": "null"
+
+}
