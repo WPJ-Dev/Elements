@@ -8,10 +8,10 @@
         "period": 1,
         "family": 1,
         "discovery_year": 1766,
-        "melting_point": {"value": -259.14, "notation": "", "range": 0},
-        "boiling_point": {"value": -252.87, "notation": ""},
+        "melting_point": {"value": -259.14, "notation": null, "range": 0},
+        "boiling_point": {"value": -252.87, "notation": null},
         "density": {"value": 0.00008988, "notation": "Gas Form, 0&deg;C"},
-        "pronunciation":"null"
+        "pronunciation": null
     },
     {
         "atomic_number": 2,
@@ -23,9 +23,9 @@
         "family": 1,
         "discovery_year": 1868,
         "melting_point": {"value": -272.2, "notation": "Pressurized", "range": 0},
-        "boiling_point": {"value": -268.934, "notation": ""},
+        "boiling_point": {"value": -268.934, "notation": null},
         "density": {"value": 0.0001785, "notation": "Gas Form, 0&deg;C"},
-        "pronunciation":"null"
+        "pronunciation": null
     },
     {
         "atomic_number": 3,
@@ -36,10 +36,10 @@
         "period": 2,
         "family": 1,
         "discovery_year": 1817,
-        "melting_point":{"value": 180.54, "notation": ""},
-        "boiling_point": {"value": 1340, "notation": "", "range": 0},
+        "melting_point":{"value": 180.54, "notation": null},
+        "boiling_point": {"value": 1340, "notation": null, "range": 0},
         "density":{"value": 0.534, "notation": "0&deg;C"},
-        "pronunciation":"null"
+        "pronunciation": null
     },
     {
         "atomic_number": 4,
@@ -50,10 +50,10 @@
         "period": 2,
         "family": 2,
         "discovery_year": 1797,
-        "melting_point": {"value": 1278, "notation": "", "range": 5},
+        "melting_point": {"value": 1278, "notation": null, "range": 5},
         "boiling_point": {"value": 2970, "notation": "Pressurized"},
-        "density": {"value": 1.8477, "notation": ""},
-        "pronunciation": "null"
+        "density": {"value": 1.8477, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 5,
@@ -64,10 +64,10 @@
         "period": 2,
         "family": 13,
         "discovery_year": 1892,
-        "melting_point": {"value": 2300, "notation": "", "range" : 0},
-        "boiling_point": {"value": 3658, "notation": ""},
+        "melting_point": {"value": 2300, "notation": null, "range" : 0},
+        "boiling_point": {"value": 3658, "notation": null},
         "density": {"value": 2.34, "notation": "Type B"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 6,
@@ -81,7 +81,7 @@
         "melting_point": {"value": 3553, "notation": "Diamond", "range": 0},
         "boiling_point": {"value": 4827, "notation": "Sublimation"},
         "density": {"value": 3.513, "notation": "Diamond"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 7,
@@ -92,10 +92,10 @@
         "period": 2,
         "family": 15,
         "discovery_year": 1772,
-        "melting_point": {"value": -209.86, "notation": "", "range": 0},
-        "boiling_point": {"value": -195.8, "notation": ""},
+        "melting_point": {"value": -209.86, "notation": null, "range": 0},
+        "boiling_point": {"value": -195.8, "notation": null},
         "density": {"value": 0.0012506, "notation": "Gas Form, 0&deg;C"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 8,
@@ -106,10 +106,10 @@
         "period": 2,
         "family": 16,
         "discovery_year": 1774,
-        "melting_point": {"value": -218.4, "notation": "", "range": 0},
-        "boiling_point": {"value": -182.96, "notation": ""},
+        "melting_point": {"value": -218.4, "notation": null, "range": 0},
+        "boiling_point": {"value": -182.96, "notation": null},
         "density": {"value": 0.001429, "notation": "Gas Form, 0&deg;C"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 9,
@@ -120,10 +120,10 @@
         "period": 2,
         "family": 17,
         "discovery_year": 1886,
-        "melting_point": {"value": -219.62, "notation": "", "range": 0},
-        "boiling_point": {"value": -188.14, "notation": ""},
+        "melting_point": {"value": -219.62, "notation": null, "range": 0},
+        "boiling_point": {"value": -188.14, "notation": null},
         "density": {"value": 0.001696, "notation": "Gas Form, 0&deg;C"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 10,
@@ -134,10 +134,10 @@
         "period": 2,
         "family": 18,
         "discovery_year": 1898,
-        "melting_point": {"value": -248.67, "notation": "", "range": 0},
-        "boiling_point": {"value": -246.05, "notation": ""},
+        "melting_point": {"value": -248.67, "notation": null, "range": 0},
+        "boiling_point": {"value": -246.05, "notation": null},
         "density": {"value": 0.00089994, "notation": "Gas Form, 0&deg;C"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 11,
@@ -148,10 +148,10 @@
         "period": 3,
         "family": 1,
         "discovery_year": 1807,
-        "melting_point": {"value": 97.81, "notation": "", "range": 0},
-        "boiling_point": {"value": 883, "notation": ""},
-        "density": {"value": 0.917, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 97.81, "notation": null, "range": 0},
+        "boiling_point": {"value": 883, "notation": null},
+        "density": {"value": 0.917, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 12,
@@ -162,10 +162,10 @@
         "period": 3,
         "family": 2,
         "discovery_year": 1808,
-        "melting_point": {"value": 650, "notation": "", "range": 0},
-        "boiling_point": {"value": 1095, "notation": ""},
-        "density": {"value": 1.738, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 650, "notation": null, "range": 0},
+        "boiling_point": {"value": 1095, "notation": null},
+        "density": {"value": 1.738, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 13,
@@ -176,10 +176,10 @@
         "period": 3,
         "family": 13,
         "discovery_year": 1807,
-        "melting_point": {"value": 660.37, "notation": "", "range": 0},
-        "boiling_point": {"value": 2520, "notation": ""},
-        "density": {"value": 2.698, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 660.37, "notation": null, "range": 0},
+        "boiling_point": {"value": 2520, "notation": null},
+        "density": {"value": 2.698, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 14,
@@ -190,10 +190,10 @@
         "period": 3,
         "family": 14,
         "discovery_year": 1823,
-        "melting_point": {"value": 1410, "notation": "", "range": 0},
-        "boiling_point": {"value": 2355, "notation": ""},
-        "density": {"value": 2.329, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 1410, "notation": null, "range": 0},
+        "boiling_point": {"value": 2355, "notation": null},
+        "density": {"value": 2.329, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 15,
@@ -207,7 +207,7 @@
         "melting_point": {"value": 44.2, "notation": "White Phosphorus", "range": 0},
         "boiling_point": {"value": 279.9, "notation": "White Phosphorus"},
         "density": {"value": 1.82, "notation": "White Phosphorus"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 16,
@@ -219,9 +219,9 @@
         "family": 16,
         "discovery_year": -2,
         "melting_point": {"value": 112.8, "notation": "Crystaline Form", "range": 0},
-        "boiling_point": {"value": 444.674, "notation": ""},
+        "boiling_point": {"value": 444.674, "notation": null},
         "density": {"value": 2.07, "notation": "Crystaline Form"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 17,
@@ -232,10 +232,10 @@
         "period": 3,
         "family": 17,
         "discovery_year": 1774,
-        "melting_point": {"value": -100.98, "notation": "", "range": 0},
-        "boiling_point": {"value": -33.97, "notation": ""},
+        "melting_point": {"value": -100.98, "notation": null, "range": 0},
+        "boiling_point": {"value": -33.97, "notation": null},
         "density": {"value": 0.003214, "notation": "0&deg;C"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 18,
@@ -246,10 +246,10 @@
         "period": 3,
         "family": 18,
         "discovery_year": 1894,
-        "melting_point": {"value": -189.37, "notation": "", "range": 0},
-        "boiling_point": {"value": -185.86, "notation": ""},
+        "melting_point": {"value": -189.37, "notation": null, "range": 0},
+        "boiling_point": {"value": -185.86, "notation": null},
         "density": {"value": 0.001784, "notation": "Gas Form, 0&deg;C"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 19,
@@ -260,10 +260,10 @@
         "period": 4,
         "family": 1,
         "discovery_year": 1807,
-        "melting_point": {"value": 63.65, "notation": "", "range": 0},
-        "boiling_point": {"value": 774, "notation": ""},
+        "melting_point": {"value": 63.65, "notation": null, "range": 0},
+        "boiling_point": {"value": 774, "notation": null},
         "density": {"value": 0.862, "notation": "-80&deg;C"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 20,
@@ -274,10 +274,10 @@
         "period": 4,
         "family": 2,
         "discovery_year": 1808,
-        "melting_point": {"value": 839, "notation": "", "range": 0},
-        "boiling_point": {"value": 1484, "notation": ""},
-        "density": {"value": 1.55, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 839, "notation": null, "range": 0},
+        "boiling_point": {"value": 1484, "notation": null},
+        "density": {"value": 1.55, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 21,
@@ -288,10 +288,10 @@
         "period": 4,
         "family": 3,
         "discovery_year": 1879,
-        "melting_point": {"value": 1541, "notation": "", "range": 0},
-        "boiling_point": {"value": 2831, "notation": ""},
-        "density": {"value": 2.989, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 1541, "notation": null, "range": 0},
+        "boiling_point": {"value": 2831, "notation": null},
+        "density": {"value": 2.989, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 22,
@@ -302,10 +302,10 @@
         "period": 4,
         "family": 4,
         "discovery_year": 1879,
-        "melting_point": {"value": 1541, "notation": "", "range": 0},
-        "boiling_point": {"value": 2831, "notation": ""},
-        "density": {"value": 2.989, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 1541, "notation": null, "range": 0},
+        "boiling_point": {"value": 2831, "notation": null},
+        "density": {"value": 2.989, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 23,
@@ -316,10 +316,10 @@
         "period": 4,
         "family": 5,
         "discovery_year": 1830,
-        "melting_point": {"value": 1887, "notation": "", "range": 0},
-        "boiling_point": {"value": 3377, "notation": ""},
+        "melting_point": {"value": 1887, "notation": null, "range": 0},
+        "boiling_point": {"value": 3377, "notation": null},
         "density": {"value": 6.11, "notation": "19&deg;C"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 24,
@@ -330,10 +330,10 @@
         "period": 4,
         "family": 6,
         "discovery_year": 1797,
-        "melting_point": {"value": 1857, "notation": "", "range": 0},
-        "boiling_point": {"value": 2672, "notation": ""},
-        "density": {"value": 7.19, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 1857, "notation": null, "range": 0},
+        "boiling_point": {"value": 2672, "notation": null},
+        "density": {"value": 7.19, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 25,
@@ -344,10 +344,10 @@
         "period": 4,
         "family": 7,
         "discovery_year": 1774,
-        "melting_point": {"value": 1244, "notation": "", "range": 0},
-        "boiling_point": {"value": 1962, "notation": ""},
-        "density": {"value": 7.44, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 1244, "notation": null, "range": 0},
+        "boiling_point": {"value": 1962, "notation": null},
+        "density": {"value": 7.44, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 26,
@@ -358,10 +358,10 @@
         "period": 4,
         "family": 8,
         "discovery_year": -2,
-        "melting_point": {"value": 1535, "notation": "", "range": 0},
-        "boiling_point": {"value": 2750, "notation": ""},
-        "density": {"value": 7.874, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 1535, "notation": null, "range": 0},
+        "boiling_point": {"value": 2750, "notation": null},
+        "density": {"value": 7.874, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 27,
@@ -372,10 +372,10 @@
         "period": 4,
         "family": 9,
         "discovery_year": 1737,
-        "melting_point": {"value": 1495, "notation": "", "range": 0},
-        "boiling_point": {"value": 2870, "notation": ""},
-        "density": {"value": 8.9, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 1495, "notation": null, "range": 0},
+        "boiling_point": {"value": 2870, "notation": null},
+        "density": {"value": 8.9, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 28,
@@ -386,10 +386,10 @@
         "period": 4,
         "family": 10,
         "discovery_year": 1751,
-        "melting_point": {"value": 1455, "notation": "", "range": 0},
-        "boiling_point": {"value": 2890, "notation": ""},
+        "melting_point": {"value": 1455, "notation": null, "range": 0},
+        "boiling_point": {"value": 2890, "notation": null},
         "density": {"value": 8.902, "notation": "25&deg;C"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 29,
@@ -400,10 +400,10 @@
         "period": 4,
         "family": 11,
         "discovery_year": -2,
-        "melting_point": {"value": 1083.5, "notation": "", "range": 0},
-        "boiling_point": {"value": 2567, "notation": ""},
-        "density": {"value": 8.96, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 1083.5, "notation": null, "range": 0},
+        "boiling_point": {"value": 2567, "notation": null},
+        "density": {"value": 8.96, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 30,
@@ -414,10 +414,10 @@
         "period": 4,
         "family": 12,
         "discovery_year": -1,
-        "melting_point": {"value": 419.58, "notation": "", "range": 0},
-        "boiling_point": {"value": 907, "notation": ""},
-        "density": {"value": 7.133, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 419.58, "notation": null, "range": 0},
+        "boiling_point": {"value": 907, "notation": null},
+        "density": {"value": 7.133, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 31,
@@ -428,10 +428,10 @@
         "period": 4,
         "family": 13,
         "discovery_year": 1875,
-        "melting_point": {"value": 29.78, "notation": "", "range": 0},
-        "boiling_point": {"value": 2403, "notation": ""},
-        "density": {"value": 5.907, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 29.78, "notation": null, "range": 0},
+        "boiling_point": {"value": 2403, "notation": null},
+        "density": {"value": 5.907, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 32,
@@ -442,10 +442,10 @@
         "period": 4,
         "family": 14,
         "discovery_year": 1885,
-        "melting_point": {"value": 937.4, "notation": "", "range": 0},
-        "boiling_point": {"value": 2830, "notation": ""},
-        "density": {"value": 5.323, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 937.4, "notation": null, "range": 0},
+        "boiling_point": {"value": 2830, "notation": null},
+        "density": {"value": 5.323, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 33,
@@ -459,7 +459,7 @@
         "melting_point": {"value": 817, "notation": "Metal, Pressurized", "range": 0},
         "boiling_point": {"value": 616, "notation": "Sublimation"},
         "density": {"value": 5.78, "notation": "Metal"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 34,
@@ -470,10 +470,10 @@
         "period": 4,
         "family": 16,
         "discovery_year": 1817,
-        "melting_point": {"value": 217, "notation": "", "range": 0},
-        "boiling_point": {"value": 684.9, "notation": ""},
+        "melting_point": {"value": 217, "notation": null, "range": 0},
+        "boiling_point": {"value": 684.9, "notation": null},
         "density": {"value": 4.79, "notation": "Gray Solid"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 35,
@@ -484,10 +484,10 @@
         "period": 4,
         "family": 17,
         "discovery_year": 1826,
-        "melting_point": {"value": -7.3, "notation": "", "range": 0},
-        "boiling_point": {"value": 58.78, "notation": ""},
+        "melting_point": {"value": -7.3, "notation": null, "range": 0},
+        "boiling_point": {"value": 58.78, "notation": null},
         "density": {"value": 3.1226, "notation": "Liquid, 20&deg;C"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 36,
@@ -498,10 +498,10 @@
         "period": 4,
         "family": 18,
         "discovery_year": 1898,
-        "melting_point": {"value": -156.6, "notation": "", "range": 0},
-        "boiling_point": {"value": -153.3, "notation": ""},
+        "melting_point": {"value": -156.6, "notation": null, "range": 0},
+        "boiling_point": {"value": -153.3, "notation": null},
         "density": {"value": 0.0037493, "notation": "Gas Form, 0&deg;C"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 37,
@@ -512,10 +512,10 @@
         "period": 5,
         "family": 1,
         "discovery_year": 1861,
-        "melting_point": {"value": 39.1, "notation": "", "range": 0},
-        "boiling_point": {"value": 688, "notation": ""},
-        "density": {"value": 1.532, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 39.1, "notation": null, "range": 0},
+        "boiling_point": {"value": 688, "notation": null},
+        "density": {"value": 1.532, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 38,
@@ -526,10 +526,10 @@
         "period": 5,
         "family": 2,
         "discovery_year": 1787,
-        "melting_point": {"value": 769, "notation": "", "range": 0},
-        "boiling_point": {"value": 1384, "notation": ""},
-        "density": {"value": 2.54, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 769, "notation": null, "range": 0},
+        "boiling_point": {"value": 1384, "notation": null},
+        "density": {"value": 2.54, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 39,
@@ -540,10 +540,10 @@
         "period": 5,
         "family": 3,
         "discovery_year": 1794,
-        "melting_point": {"value": 1522, "notation": "", "range": 0},
-        "boiling_point": {"value": 3338, "notation": ""},
-        "density": {"value": 4.469, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 1522, "notation": null, "range": 0},
+        "boiling_point": {"value": 3338, "notation": null},
+        "density": {"value": 4.469, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 40,
@@ -554,10 +554,10 @@
         "period": 5,
         "family": 4,
         "discovery_year": 1789,
-        "melting_point": {"value": 1852, "notation": "", "range": 0},
-        "boiling_point": {"value": 4377, "notation": ""},
-        "density": {"value": 6.506, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 1852, "notation": null, "range": 0},
+        "boiling_point": {"value": 4377, "notation": null},
+        "density": {"value": 6.506, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 41,
@@ -568,10 +568,10 @@
         "period": 5,
         "family": 5,
         "discovery_year": 1801,
-        "melting_point": {"value": 2468, "notation": "", "range": 0},
-        "boiling_point": {"value": 4742, "notation": ""},
-        "density": {"value": 8.57, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 2468, "notation": null, "range": 0},
+        "boiling_point": {"value": 4742, "notation": null},
+        "density": {"value": 8.57, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 42,
@@ -582,10 +582,10 @@
         "period": 5,
         "family": 6,
         "discovery_year": 1778,
-        "melting_point": {"value": 2617, "notation": "", "range": 0},
-        "boiling_point": {"value": 4612, "notation": ""},
-        "density": {"value": 10.22, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 2617, "notation": null, "range": 0},
+        "boiling_point": {"value": 4612, "notation": null},
+        "density": {"value": 10.22, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 43,
@@ -596,10 +596,10 @@
         "period": 5,
         "family": 7,
         "discovery_year": 1936,
-        "melting_point": {"value": 2172, "notation": "", "range": 0},
-        "boiling_point": {"value": 4877, "notation": ""},
-        "density": {"value": 11.5, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 2172, "notation": null, "range": 0},
+        "boiling_point": {"value": 4877, "notation": null},
+        "density": {"value": 11.5, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 44,
@@ -610,10 +610,10 @@
         "period": 5,
         "family": 8,
         "discovery_year": 1844,
-        "melting_point": {"value": 2310, "notation": "", "range": 0},
-        "boiling_point": {"value": 3900, "notation": ""},
-        "density": {"value": 12.37, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 2310, "notation": null, "range": 0},
+        "boiling_point": {"value": 3900, "notation": null},
+        "density": {"value": 12.37, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 45,
@@ -624,10 +624,10 @@
         "period": 5,
         "family": 9,
         "discovery_year": 1803,
-        "melting_point": {"value": 1966, "notation": "", "range": 0},
-        "boiling_point": {"value": 3727, "notation": ""},
-        "density": {"value": 12.41, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 1966, "notation": null, "range": 0},
+        "boiling_point": {"value": 3727, "notation": null},
+        "density": {"value": 12.41, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 46,
@@ -638,10 +638,10 @@
         "period": 5,
         "family": 10,
         "discovery_year": 1803,
-        "melting_point": {"value": 1552, "notation": "", "range": 0},
-        "boiling_point": {"value": 3140, "notation": ""},
-        "density": {"value": 12.02, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 1552, "notation": null, "range": 0},
+        "boiling_point": {"value": 3140, "notation": null},
+        "density": {"value": 12.02, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 47,
@@ -652,10 +652,10 @@
         "period": 5,
         "family": 11,
         "discovery_year": -2,
-        "melting_point": {"value": 961.93, "notation": "", "range": 0},
-        "boiling_point": {"value": 2212, "notation": ""},
-        "density": {"value": 10.5, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 961.93, "notation": null, "range": 0},
+        "boiling_point": {"value": 2212, "notation": null},
+        "density": {"value": 10.5, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 48,
@@ -666,10 +666,10 @@
         "period": 5,
         "family": 12,
         "discovery_year": 1817,
-        "melting_point": {"value": 320.9, "notation": "", "range": 0},
-        "boiling_point": {"value": 765, "notation": ""},
+        "melting_point": {"value": 320.9, "notation": null, "range": 0},
+        "boiling_point": {"value": 765, "notation": null},
         "density": {"value": 0.00865, "notation": "25&deg;C"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 49,
@@ -680,10 +680,10 @@
         "period": 5,
         "family": 13,
         "discovery_year": 1863,
-        "melting_point": {"value": 156.17, "notation": "", "range": 0},
-        "boiling_point": {"value": 2080, "notation": ""},
+        "melting_point": {"value": 156.17, "notation": null, "range": 0},
+        "boiling_point": {"value": 2080, "notation": null},
         "density": {"value": 7.31, "notation": "25&deg;C"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 50,
@@ -694,10 +694,10 @@
         "period": 5,
         "family": 14,
         "discovery_year": -2,
-        "melting_point": {"value": 231.9681, "notation": "", "range": 0},
-        "boiling_point": {"value": 2270, "notation": ""},
+        "melting_point": {"value": 231.9681, "notation": null, "range": 0},
+        "boiling_point": {"value": 2270, "notation": null},
         "density": {"value": 7.31, "notation": "White Tin"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 51,
@@ -708,10 +708,10 @@
         "period": 5,
         "family": 15,
         "discovery_year": 1450,
-        "melting_point": {"value": 630.74, "notation": "", "range": 0},
-        "boiling_point": {"value": 1635, "notation": ""},
-        "density": {"value": 6.691, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 630.74, "notation": null, "range": 0},
+        "boiling_point": {"value": 1635, "notation": null},
+        "density": {"value": 6.691, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 52,
@@ -722,10 +722,10 @@
         "period": 5,
         "family": 16,
         "discovery_year": 1782,
-        "melting_point": {"value": 449.5, "notation": "", "range": 0},
-        "boiling_point": {"value": 990, "notation": ""},
-        "density": {"value": 6.24, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 449.5, "notation": null, "range": 0},
+        "boiling_point": {"value": 990, "notation": null},
+        "density": {"value": 6.24, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 53,
@@ -736,10 +736,10 @@
         "period": 5,
         "family": 17,
         "discovery_year": 1811,
-        "melting_point": {"value": 113.6, "notation": "", "range": 0},
-        "boiling_point": {"value": 184.4, "notation": ""},
-        "density": {"value": 4.93, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 113.6, "notation": null, "range": 0},
+        "boiling_point": {"value": 184.4, "notation": null},
+        "density": {"value": 4.93, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 54,
@@ -750,10 +750,10 @@
         "period": 5,
         "family": 18,
         "discovery_year": 1898,
-        "melting_point": {"value": -111.9, "notation": "", "range": 0},
-        "boiling_point": {"value": -107.1, "notation": ""},
+        "melting_point": {"value": -111.9, "notation": null, "range": 0},
+        "boiling_point": {"value": -107.1, "notation": null},
         "density": {"value": 0.0058971, "notation": "Gas Form, 20&deg;C"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 55,
@@ -764,10 +764,10 @@
         "period": 6,
         "family": 1,
         "discovery_year": 1860,
-        "melting_point": {"value": 28.40, "notation": "", "range": 0},
-        "boiling_point": {"value": 668.5, "notation": ""},
-        "density": {"value": 1.873, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 28.40, "notation": null, "range": 0},
+        "boiling_point": {"value": 668.5, "notation": null},
+        "density": {"value": 1.873, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 56,
@@ -778,10 +778,10 @@
         "period": 6,
         "family": 2,
         "discovery_year": 1808,
-        "melting_point": {"value": 729, "notation": "", "range": 0},
-        "boiling_point": {"value": 1637, "notation": ""},
-        "density": {"value": 3.594, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 729, "notation": null, "range": 0},
+        "boiling_point": {"value": 1637, "notation": null},
+        "density": {"value": 3.594, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 57,
@@ -792,10 +792,10 @@
         "period": 6,
         "family": 3,
         "discovery_year": 1839,
-        "melting_point": {"value": "number", "notation": "", "range": 0},
-        "boiling_point": {"value": "number", "notation": ""},
-        "density": {"value": "number", "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": null, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": null, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 58,
@@ -806,10 +806,10 @@
         "period": 6,
         "family": 3,
         "discovery_year": 1803,
-        "melting_point": {"value": 799, "notation": "", "range": 0},
-        "boiling_point": {"value": 3426, "notation": ""},
+        "melting_point": {"value": 799, "notation": null, "range": 0},
+        "boiling_point": {"value": 3426, "notation": null},
         "density": {"value": 6.749, "notation": "Solid 25&deg;C"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 59,
@@ -820,10 +820,10 @@
         "period": 6,
         "family": 3,
         "discovery_year": 1885,
-        "melting_point": {"value": 931, "notation": "", "range": 0},
-        "boiling_point": {"value": 3512, "notation": ""},
-        "density": {"value": 6.773, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 931, "notation": null, "range": 0},
+        "boiling_point": {"value": 3512, "notation": null},
+        "density": {"value": 6.773, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 60,
@@ -834,10 +834,10 @@
         "period": 6,
         "family": 3,
         "discovery_year": 1885,
-        "melting_point": {"value": 1021, "notation": "", "range": 0},
-        "boiling_point": {"value": 3068, "notation": ""},
-        "density": {"value": 7.007, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 1021, "notation": null, "range": 0},
+        "boiling_point": {"value": 3068, "notation": null},
+        "density": {"value": 7.007, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 61,
@@ -848,10 +848,10 @@
         "period": 6,
         "family": 3,
         "discovery_year": 1926,
-        "melting_point": {"value": 1168, "notation": "", "range": 0},
+        "melting_point": {"value": 1168, "notation": null, "range": 0},
         "boiling_point": {"value": 2727, "notation": "Approximately"},
-        "density": {"value": 7.22, "notation": ""},
-        "pronunciation": "null"
+        "density": {"value": 7.22, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 62,
@@ -862,10 +862,10 @@
         "period": 6,
         "family": 3,
         "discovery_year": 1879,
-        "melting_point": {"value": 1077, "notation": "", "range": 0},
-        "boiling_point": {"value": 1791, "notation": ""},
-        "density": {"value": 7.52, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 1077, "notation": null, "range": 0},
+        "boiling_point": {"value": 1791, "notation": null},
+        "density": {"value": 7.52, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 63,
@@ -876,10 +876,10 @@
         "period": 6,
         "family": 3,
         "discovery_year": 1896,
-        "melting_point": {"value": 822, "notation": "", "range": 0},
-        "boiling_point": {"value": 1597, "notation": ""},
-        "density": {"value": 5.243, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 822, "notation": null, "range": 0},
+        "boiling_point": {"value": 1597, "notation": null},
+        "density": {"value": 5.243, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 64,
@@ -890,10 +890,10 @@
         "period": 6,
         "family": 3,
         "discovery_year": 1886,
-        "melting_point": {"value": 1313, "notation": "", "range": 0},
-        "boiling_point": {"value": 3266, "notation": ""},
+        "melting_point": {"value": 1313, "notation": null, "range": 0},
+        "boiling_point": {"value": 3266, "notation": null},
         "density": {"value": 7.9004, "notation": "25&deg;C"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 65,
@@ -904,10 +904,10 @@
         "period": 6,
         "family": 3,
         "discovery_year": 1843,
-        "melting_point": {"value": 1356, "notation": "", "range": 0},
-        "boiling_point": {"value": 3123, "notation": ""},
-        "density": {"value": 8.229, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 1356, "notation": null, "range": 0},
+        "boiling_point": {"value": 3123, "notation": null},
+        "density": {"value": 8.229, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 66,
@@ -918,10 +918,10 @@
         "period": 6,
         "family": 3,
         "discovery_year": 1886,
-        "melting_point": {"value": 1412, "notation": "", "range": 0},
-        "boiling_point": {"value": 2562, "notation": ""},
-        "density": {"value": 8.55, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 1412, "notation": null, "range": 0},
+        "boiling_point": {"value": 2562, "notation": null},
+        "density": {"value": 8.55, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 67,
@@ -932,10 +932,10 @@
         "period": 6,
         "family": 3,
         "discovery_year": 1879,
-        "melting_point": {"value": 1529, "notation": "", "range": 0},
-        "boiling_point": {"value": 2863, "notation": ""},
+        "melting_point": {"value": 1529, "notation": null, "range": 0},
+        "boiling_point": {"value": 2863, "notation": null},
         "density": {"value": 9.066, "notation": "25&deg;C"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 68,
@@ -946,10 +946,10 @@
         "period": 6,
         "family": 3,
         "discovery_year": 1843,
-        "melting_point": {"value": 1529, "notation": "", "range": 0},
-        "boiling_point": {"value": 2863, "notation": ""},
+        "melting_point": {"value": 1529, "notation": null, "range": 0},
+        "boiling_point": {"value": 2863, "notation": null},
         "density": {"value": 9.066, "notation": "25&deg;C"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 69,
@@ -960,10 +960,10 @@
         "period": 6,
         "family": 3,
         "discovery_year": 1879,
-        "melting_point": {"value": 1545, "notation": "", "range": 0},
-        "boiling_point": {"value": 1947, "notation": ""},
-        "density": {"value": 9.321, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 1545, "notation": null, "range": 0},
+        "boiling_point": {"value": 1947, "notation": null},
+        "density": {"value": 9.321, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 70,
@@ -974,10 +974,10 @@
         "period": 6,
         "family": 3,
         "discovery_year": 1878,
-        "melting_point": {"value": 824, "notation": "", "range": 0},
-        "boiling_point": {"value": 1193, "notation": ""},
-        "density": {"value": 6.965, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 824, "notation": null, "range": 0},
+        "boiling_point": {"value": 1193, "notation": null},
+        "density": {"value": 6.965, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 71,
@@ -988,10 +988,10 @@
         "period": 6,
         "family": 3,
         "discovery_year": 1907,
-        "melting_point": {"value": 1663, "notation": "", "range": 0},
-        "boiling_point": {"value": 3395, "notation": ""},
-        "density": {"value": 9.84, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 1663, "notation": null, "range": 0},
+        "boiling_point": {"value": 3395, "notation": null},
+        "density": {"value": 9.84, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 72,
@@ -1002,10 +1002,10 @@
         "period": 6,
         "family": 4,
         "discovery_year": 1922,
-        "melting_point": {"value": 2230, "notation": "", "range": 0},
-        "boiling_point": {"value": 5197, "notation": ""},
-        "density": {"value": 13.31, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 2230, "notation": null, "range": 0},
+        "boiling_point": {"value": 5197, "notation": null},
+        "density": {"value": 13.31, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 73,
@@ -1016,10 +1016,10 @@
         "period": 6,
         "family": 5,
         "discovery_year": 1802,
-        "melting_point": {"value": 2996, "notation": "", "range": 0},
-        "boiling_point": {"value": 5425, "notation": ""},
-        "density": {"value": 16.654, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 2996, "notation": null, "range": 0},
+        "boiling_point": {"value": 5425, "notation": null},
+        "density": {"value": 16.654, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 74,
@@ -1030,10 +1030,10 @@
         "period": 6,
         "family": 6,
         "discovery_year": 1781,
-        "melting_point": {"value": 3407, "notation": "", "range": 0},
-        "boiling_point": {"value": 5657, "notation": ""},
-        "density": {"value": 19.3, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 3407, "notation": null, "range": 0},
+        "boiling_point": {"value": 5657, "notation": null},
+        "density": {"value": 19.3, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 75,
@@ -1044,10 +1044,10 @@
         "period": 6,
         "family": 7,
         "discovery_year": 1925,
-        "melting_point": {"value": 3180, "notation": "", "range": 0},
-        "boiling_point": {"value": 5627, "notation": ""},
-        "density": {"value": 21.02, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 3180, "notation": null, "range": 0},
+        "boiling_point": {"value": 5627, "notation": null},
+        "density": {"value": 21.02, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 76,
@@ -1058,10 +1058,10 @@
         "period": 6,
         "family": 8,
         "discovery_year": 1803,
-        "melting_point": {"value": 3054, "notation": "", "range": 0},
-        "boiling_point": {"value": 5027, "notation": ""},
-        "density": {"value": 22.59, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 3054, "notation": null, "range": 0},
+        "boiling_point": {"value": 5027, "notation": null},
+        "density": {"value": 22.59, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 77,
@@ -1072,10 +1072,10 @@
         "period": 6,
         "family": 9,
         "discovery_year": 1803,
-        "melting_point": {"value": 2410, "notation": "", "range": 0},
-        "boiling_point": {"value": 4130, "notation": ""},
-        "density": {"value": 22.56, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 2410, "notation": null, "range": 0},
+        "boiling_point": {"value": 4130, "notation": null},
+        "density": {"value": 22.56, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 78,
@@ -1086,10 +1086,10 @@
         "period": 6,
         "family": 10,
         "discovery_year": 1751,
-        "melting_point": {"value": 1772, "notation": "", "range": 0},
-        "boiling_point": {"value": 3827, "notation": ""},
-        "density": {"value": 21.45, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 1772, "notation": null, "range": 0},
+        "boiling_point": {"value": 3827, "notation": null},
+        "density": {"value": 21.45, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 79,
@@ -1100,10 +1100,10 @@
         "period": 6,
         "family": 11,
         "discovery_year": -2,
-        "melting_point": {"value": 1064.43, "notation": "", "range": 0},
-        "boiling_point": {"value": 2807, "notation": ""},
-        "density": {"value": 19.32, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 1064.43, "notation": null, "range": 0},
+        "boiling_point": {"value": 2807, "notation": null},
+        "density": {"value": 19.32, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 80,
@@ -1114,10 +1114,10 @@
         "period": 6,
         "family": 12,
         "discovery_year": -2,
-        "melting_point": {"value": -38.87, "notation": "", "range": 0},
-        "boiling_point": {"value": 356.58, "notation": ""},
+        "melting_point": {"value": -38.87, "notation": null, "range": 0},
+        "boiling_point": {"value": 356.58, "notation": null},
         "density": {"value": 13.546, "notation": "Liquid, 20&deg;C"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
         "atomic_number": 81,
@@ -1128,10 +1128,10 @@
         "period": 6,
         "family": 13,
         "discovery_year": 1861,
-        "melting_point": {"value": 303.5, "notation": "", "range": 0},
-        "boiling_point": {"value": 1457, "notation": ""},
-        "density": {"value": 11.85, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 303.5, "notation": null, "range": 0},
+        "boiling_point": {"value": 1457, "notation": null},
+        "density": {"value": 11.85, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 82,
@@ -1142,10 +1142,10 @@
         "period": 6,
         "family": 14,
         "discovery_year": -2,
-        "melting_point": {"value": 327.50, "notation": "", "range": 0},
-        "boiling_point": {"value": 1740, "notation": ""},
-        "density": {"value": 11.35, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 327.50, "notation": null, "range": 0},
+        "boiling_point": {"value": 1740, "notation": null},
+        "density": {"value": 11.35, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 83,
@@ -1156,10 +1156,10 @@
         "period": 6,
         "family": 15,
         "discovery_year": 1753,
-        "melting_point": {"value": 271.3, "notation": "", "range": 0},
-        "boiling_point": {"value": 1560, "notation": ""},
-        "density": {"value": 9.747, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 271.3, "notation": null, "range": 0},
+        "boiling_point": {"value": 1560, "notation": null},
+        "density": {"value": 9.747, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 84,
@@ -1170,10 +1170,10 @@
         "period": 6,
         "family": 16,
         "discovery_year": 1898,
-        "melting_point": {"value": 254, "notation": "", "range": 0},
-        "boiling_point": {"value": 962, "notation": ""},
-        "density": {"value": 9.32, "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 254, "notation": null, "range": 0},
+        "boiling_point": {"value": 962, "notation": null},
+        "density": {"value": 9.32, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 85,
@@ -1184,10 +1184,10 @@
         "period": 6,
         "family": 17,
         "discovery_year": 1940,
-        "melting_point": {"value": 302, "notation": "", "range": 0},
-        "boiling_point": {"value": 337, "notation": ""},
-        "density": {"value": "null", "notation": ""},
-        "pronunciation": "null"
+        "melting_point": {"value": 302, "notation": null, "range": 0},
+        "boiling_point": {"value": 337, "notation": null},
+        "density": {"value": null, "notation": null},
+        "pronunciation": null
     },
     {
         "atomic_number": 86,
@@ -1198,23 +1198,457 @@
         "period": 6,
         "family": 18,
         "discovery_year": 1900,
-        "melting_point": {"value": -71, "notation": "", "range": 0},
-        "boiling_point": {"value": -61.8, "notation": ""},
+        "melting_point": {"value": -71, "notation": null, "range": 0},
+        "boiling_point": {"value": -61.8, "notation": null},
         "density": {"value": 0.00973, "notation": "Gas Form, 0&deg;C"},
-        "pronunciation": "null"
+        "pronunciation": null
     },
     {
-        "atomic_number": "number",
-        "element_name": "string",
-        "molar_mass": "number",
-        "symbol": "string",
-        "position": [{"row": "number"},{"column": "number"}],
-        "period": "number",
-        "family": "number",
-        "discovery_year": "number",
-        "melting_point": {"value": "number", "notation": "", "range": 0},
-        "boiling_point": {"value": "number", "notation": ""},
-        "density": {"value": "number", "notation": ""},
-        "pronunciation": "null"
+        "atomic_number": 87,
+        "element_name": "Francium",
+        "molar_mass": 223,
+        "symbol": "Fr",
+        "position": [{"row": 7},{"column": 1}],
+        "period": 7,
+        "family": 1,
+        "discovery_year": 1939,
+        "melting_point": {"value": 27, "notation": null, "range": 0},
+        "boiling_point": {"value": 677, "notation": null},
+        "density": {"value": null, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 88,
+        "element_name": "Radium",
+        "molar_mass": 226,
+        "symbol": "Ra",
+        "position": [{"row": 7},{"column": 2}],
+        "period": 7,
+        "family": 2,
+        "discovery_year": 1898,
+        "melting_point": {"value": 700, "notation": null, "range": 0},
+        "boiling_point": {"value": 1140, "notation": null},
+        "density": {"value": 5, "notation": "Approximately"},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 89,
+        "element_name": "Actinium",
+        "molar_mass": 227,
+        "symbol": "Ac",
+        "position": [{"row": 9},{"column": 3}],
+        "period": 7,
+        "family": 3,
+        "discovery_year": null,
+        "melting_point": {"value": 1047, "notation": null, "range": 0},
+        "boiling_point": {"value": 3197, "notation": null},
+        "density": {"value": 10.06, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 90,
+        "element_name": "Thorium",
+        "molar_mass": 232,
+        "symbol": "Th",
+        "position": [{"row": 9},{"column": 4}],
+        "period": 7,
+        "family": 3,
+        "discovery_year": null,
+        "melting_point": {"value": 1750, "notation": null, "range": 0},
+        "boiling_point": {"value": 4787, "notation": null},
+        "density": {"value": 11.72, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 91,
+        "element_name": "Protactinium",
+        "molar_mass": 231,
+        "symbol": "Pa",
+        "position": [{"row": 9},{"column": 5}],
+        "period": 7,
+        "family": 3,
+        "discovery_year": null,
+        "melting_point": {"value": 1840, "notation": null, "range": 0},
+        "boiling_point": {"value": 4030, "notation": null},
+        "density": {"value": 15.37, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 92,
+        "element_name": "Uranium",
+        "molar_mass": 238,
+        "symbol": "U",
+        "position": [{"row": 9},{"column": 6}],
+        "period": 7,
+        "family": 3,
+        "discovery_year": null,
+        "melting_point": {"value": 1132.3, "notation": null, "range": 0},
+        "boiling_point": {"value": 3745, "notation": null},
+        "density": {"value": 18.95, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 93,
+        "element_name": "Neptunim",
+        "molar_mass": 237,
+        "symbol": "Np",
+        "position": [{"row": 9},{"column": 7}],
+        "period": 7,
+        "family": 3,
+        "discovery_year": null,
+        "melting_point": {"value": 640, "notation": null, "range": 0},
+        "boiling_point": {"value": 3902, "notation": null},
+        "density": {"value": 20.25, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 94,
+        "element_name": "Plutonium",
+        "molar_mass": 239,
+        "symbol": "Pu",
+        "position": [{"row": 9},{"column": 8}],
+        "period": 7,
+        "family": 3,
+        "discovery_year": null,
+        "melting_point": {"value": 641, "notation": null, "range": 0},
+        "boiling_point": {"value": 3232, "notation": null},
+        "density": {"value": 19.84, "notation": "25&deg;C"},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 95,
+        "element_name": "Americium",
+        "molar_mass": 243,
+        "symbol": "Am",
+        "position": [{"row": 9},{"column": 9}],
+        "period": 7,
+        "family": 3,
+        "discovery_year": null,
+        "melting_point": {"value": 1172, "notation": null, "range": 0},
+        "boiling_point": {"value": 2607, "notation": null},
+        "density": {"value": 13.67, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 96,
+        "element_name": "Curium",
+        "molar_mass": 247,
+        "symbol": "Cm",
+        "position": [{"row": 9},{"column": 10}],
+        "period": 7,
+        "family": 3,
+        "discovery_year": null,
+        "melting_point": {"value": 1337, "notation": null, "range": 0},
+        "boiling_point": {"value": 3110, "notation": null},
+        "density": {"value": 13.3, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 97,
+        "element_name": "Berkelium",
+        "molar_mass": 247,
+        "symbol": "Bk",
+        "position": [{"row": 9},{"column": 11}],
+        "period": 7,
+        "family": 3,
+        "discovery_year": null,
+        "melting_point": {"value": 1047, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": 14.79, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 98,
+        "element_name": "Californium",
+        "molar_mass": 252,
+        "symbol": "Cf",
+        "position": [{"row": 9},{"column": 12}],
+        "period": 7,
+        "family": 3,
+        "discovery_year": null,
+        "melting_point": {"value": 897, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": 15.1, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 99,
+        "element_name": "Einsteinium",
+        "molar_mass": 252,
+        "symbol": "Es",
+        "position": [{"row": 9},{"column": 13}],
+        "period": 7,
+        "family": 3,
+        "discovery_year": null,
+        "melting_point": {"value": 860, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": null, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 100,
+        "element_name": "Fermium",
+        "molar_mass": 257,
+        "symbol": "Fm",
+        "position": [{"row": 9},{"column": 14}],
+        "period": 7,
+        "family": 3,
+        "discovery_year": null,
+        "melting_point": {"value": null, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": null, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 101,
+        "element_name": "Mendelevium",
+        "molar_mass": 258,
+        "symbol": "Md",
+        "position": [{"row": 9},{"column": 15}],
+        "period": 7,
+        "family": 3,
+        "discovery_year": null,
+        "melting_point": {"value": null, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": null, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 102,
+        "element_name": "Nobelium",
+        "molar_mass": 259,
+        "symbol": "No",
+        "position": [{"row": 9},{"column": 16}],
+        "period": 7,
+        "family": 3,
+        "discovery_year": null,
+        "melting_point": {"value": null, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": null, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 103,
+        "element_name": "Lawrencium",
+        "molar_mass": 262,
+        "symbol": "Lr",
+        "position": [{"row": 9},{"column": 17}],
+        "period": 7,
+        "family": 3,
+        "discovery_year": null,
+        "melting_point": {"value": null, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": null, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 104,
+        "element_name": "Rutherfordium",
+        "molar_mass": 267,
+        "symbol": "Rf",
+        "position": [{"row": 7},{"column": 4}],
+        "period": 7,
+        "family": 4,
+        "discovery_year": null,
+        "melting_point": {"value": null, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": 23, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 105,
+        "element_name": "Dubnium",
+        "molar_mass": 268,
+        "symbol": "Db",
+        "position": [{"row": 7},{"column": 5}],
+        "period": 7,
+        "family": 5,
+        "discovery_year": null,
+        "melting_point": {"value": null, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": 29, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 106,
+        "element_name": "Seaborgium",
+        "molar_mass": 271,
+        "symbol": "Sg",
+        "position": [{"row": 7},{"column": 6}],
+        "period": 7,
+        "family": 6,
+        "discovery_year": null,
+        "melting_point": {"value": null, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": 35, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 107,
+        "element_name": "Bohrium",
+        "molar_mass": 272,
+        "symbol": "Bh",
+        "position": [{"row": 7},{"column": 7}],
+        "period": 7,
+        "family": 7,
+        "discovery_year": null,
+        "melting_point": {"value": null, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": 37, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 108,
+        "element_name": "Hassium",
+        "molar_mass": 277,
+        "symbol": "Hs",
+        "position": [{"row": 7},{"column": 8}],
+        "period": 7,
+        "family": 8,
+        "discovery_year": null,
+        "melting_point": {"value": null, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": 41, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 109,
+        "element_name": "Meitnerium",
+        "molar_mass": 276,
+        "symbol": "Mt",
+        "position": [{"row": 7},{"column": 9}],
+        "period": 7,
+        "family": 9,
+        "discovery_year": null,
+        "melting_point": {"value": null, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": null, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 110,
+        "element_name": "Darmstadtium",
+        "molar_mass": 281,
+        "symbol": "Ds",
+        "position": [{"row": 7},{"column": 10}],
+        "period": 7,
+        "family": 10,
+        "discovery_year": null,
+        "melting_point": {"value": null, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": null, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 111,
+        "element_name": "Roentgenium",
+        "molar_mass": 280,
+        "symbol": "Rg",
+        "position": [{"row": 7},{"column": 11}],
+        "period": 7,
+        "family": 11,
+        "discovery_year": null,
+        "melting_point": {"value": null, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": null, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 112,
+        "element_name": "Copernicium",
+        "molar_mass": 280,
+        "symbol": "Cn",
+        "position": [{"row": 7},{"column": 12}],
+        "period": 7,
+        "family": 12,
+        "discovery_year": null,
+        "melting_point": {"value": null, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": null, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 113,
+        "element_name": "Ununtrium",
+        "molar_mass": 284,
+        "symbol": "Uut",
+        "position": [{"row": 7},{"column": 13}],
+        "period": 7,
+        "family": 13,
+        "discovery_year": 2004,
+        "melting_point": {"value": null, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": null, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 114,
+        "element_name": "Flerovium",
+        "molar_mass": 289,
+        "symbol": "Fl",
+        "position": [{"row": 7},{"column": 14}],
+        "period": 7,
+        "family": 14,
+        "discovery_year": "1998",
+        "melting_point": {"value": null, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": null, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 115,
+        "element_name": "Ununpentium",
+        "molar_mass": 288,
+        "symbol": "Uup",
+        "position": [{"row": 7},{"column": 14}],
+        "period": 7,
+        "family": 14,
+        "discovery_year": "2003",
+        "melting_point": {"value": null, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": null, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 116,
+        "element_name": "Livermorium",
+        "molar_mass": 293,
+        "symbol": "Lv",
+        "position": [{"row": 7},{"column": 16}],
+        "period": 7,
+        "family": 16,
+        "discovery_year": "2000",
+        "melting_point": {"value": null, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": null, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 117,
+        "element_name": "Ununseptium",
+        "molar_mass": null,
+        "symbol": "Uus",
+        "position": [{"row": 7},{"column": 17}],
+        "period": 7,
+        "family": 17,
+        "discovery_year": "2010",
+        "melting_point": {"value": null, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": null, "notation": null},
+        "pronunciation": null
+    },
+    {
+        "atomic_number": 118,
+        "element_name": "Ununoctium",
+        "molar_mass": 294,
+        "symbol": "Uuo",
+        "position": [{"row": 7},{"column": 18}],
+        "period": 7,
+        "family": 18,
+        "discovery_year": 2003,
+        "melting_point": {"value": null, "notation": null, "range": 0},
+        "boiling_point": {"value": null, "notation": null},
+        "density": {"value": null, "notation": null},
+        "pronunciation": null
     }
 ]
