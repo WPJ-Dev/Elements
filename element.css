@@ -1,0 +1,32 @@
+.element {
+    width: 12rem;
+    height: 12rem;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+}
+
+.atomic-number {
+    font-size: 1.5rem;
+    padding-left: .5rem;
+    padding-top: .5rem;
+    /* position: absolute; */
+    /* left: 0;
+    top: 0; */
+    align-self: flex-start;
+}
+
+.element-symbol {
+    font-size: 5rem;
+}
+
+.element-name {
+    font-size: 1.5rem;
+    padding-bottom: .2rem;
+}
+
+.molar-mass {
+    font-size: 1.5rem;
+}
