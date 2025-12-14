@@ -1,11 +1,28 @@
 async function getAllElements() {
-    fetch('elements.json')
-    .then((res) => {return res.json()});
+    let elements;
+    await fetch('elements.json')
+    .then((res) => elements = res.json());
+    return elements;
 }
 
 async function getElementByAtomicNumber(atomicNumber) {
-    elements = getAllElements();
-    console.log(elements); //.filter((element) => { console.log(element.atomic_number === 1)})
+    elements = await getAllElements();
+    element = elements.filter((element) => element.atomic_number === atomicNumber)
+    console.log(element);
 }
-// getAllElements();
-getElementByAtomicNumber(1);
+
+async function getElementsByPeriod(periodNumber) {
+    elements = await getAllElements();
+    elements = elements.filter((element) => element.period === periodNumber)
+    console.log(elements);
+}
+
+async function getElementsByFamily(familyNumber) {
+    elements = await getAllElements();
+    elements = elements.filter((element) => element.family === familyNumber)
+    console.log(elements);
+}
+
+getElementByAtomicNumber(3);
+getElementsByPeriod(3);
+getElementsByFamily(3);
